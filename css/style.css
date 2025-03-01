@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient(120deg, #000000 0%, #585452 100%);
+    min-height: 100vh;
+}
+
+div {
+    text-align: center;
+}
+
+.tittle {
+    color: rgb(164, 160, 160);
+}
